@@ -110,3 +110,16 @@ footer p{
 font-size: 1.2em;
 text-align: center;
 }
+
+.ani{
+width: 300px;
+height: 800px;
+margin-top: 2%;
+background-color: blueviolet;
+margin-bottom: 2%;
+transition: width 2s;
+    }
+
+    .ani:hover {
+        width: 800px;
+    }
